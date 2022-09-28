@@ -10,8 +10,7 @@ args = commandArgs(trailingOnly=TRUE)
 
 # Utilising thse arguments will gather the .rds files which contain the output from OPNMF_fact.R #
 # These should be in the directory 'wd/data/Speceis(e.g. chimp or human)/W_H/*.rds #
-# When downloading the OPNMF solutions from (....Zenodo....) they will have this structure for each species #
-
+# When downloading the OPNMF solutions from (https://zenodo.org/record/7116203#.YzPo5UhByV4) they will have this structure for each species #
 
 wd <- "~/projects/chimp_human_opnmf/"
 setwd(wd)
