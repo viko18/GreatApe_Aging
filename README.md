@@ -14,4 +14,4 @@ Our anlyses can be seperated into four parts:
 
 - ```/04_Age_Expansion_Analysis/``` utilize the selected OPNMF solution to compare aging and cross-species expansion as well as their relationship with each other in chimpanzees and humans.
 
-**Manuscript**: The Uniqueness of Human Vulnerability to Brain Aging in Great Ape Evolution; Sam Vickery, Kaustubh R. Patil, Robert Dahnke, William D. Hopkins, Chet C. Sherwood, Svenja Caspers, Simon B. Eickhoff, Felix Hoffstaedter; https://www.biorxiv.org/content/10.1101/2022.09.27.509685v1
+**Manuscript**: The Uniqueness of Human Vulnerability to Brain Aging in Great Ape Evolution; Sam Vickery, Kaustubh R. Patil, Robert Dahnke, William D. Hopkins, Chet C. Sherwood, Svenja Caspers, Simon B. Eickhoff, Felix Hoffstaedter; [LINK](https://www.biorxiv.org/content/10.1101/2022.09.27.509685v2)
